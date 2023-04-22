@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dragon_Picker/Scenes/Main_Menu_Scene.unity
+    guid: 5a443340e0cef42d0ac0f8ce76bdd7fb
+  - enabled: 1
+    path: Assets/Dragon_Picker/Scenes/Dragon_Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

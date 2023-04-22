@@ -344,6 +344,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Dragon_Picker/Scripts/Dragon.cs"
+"Assets/Dragon_Picker/Scripts/DragonEgg.cs"
+"Assets/Dragon_Picker/Scripts/DragonPicker.cs"
+"Assets/Dragon_Picker/Scripts/EnergyShield.cs"
+"Assets/Dragon_Picker/Scripts/MainMenu.cs"
 "Assets/PyroParticles/Demo/DemoScript.cs"
 "Assets/PyroParticles/Demo/DemoScriptEditor.cs"
 "Assets/PyroParticles/Prefab/Script/FireBaseScript.cs"
@@ -353,10 +358,6 @@
 "Assets/PyroParticles/Prefab/Script/FireProjectileScript.cs"
 "Assets/PyroParticles/Prefab/Script/MeteorSwarmScript.cs"
 "Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs"
-"Assets/Scripts/Dragon.cs"
-"Assets/Scripts/DragonEgg.cs"
-"Assets/Scripts/DragonPicker.cs"
-"Assets/Scripts/EnergyShield.cs"
 -langversion:9.0
 
 /deterministic
