@@ -23,4 +23,7 @@ public class DragonPicker : MonoBehaviour
         shield.transform.localScale = new Vector3(i, i, i);
     }
 
+    private void Udpate() {
+    }
+
 }

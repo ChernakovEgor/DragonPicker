@@ -27,8 +27,13 @@ public class EnergyShield : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         DragonEgg egg = collision.gameObject.GetComponent<DragonEgg>();
-        if (egg != null)
-            Destroy(gameObject);
+        if (egg != null) {
+            if (collision.gameObject.tag == "Bad") {
+                Destroy(gameObject);
+            } else {
+                GameManager.score += 1;
+            }
+        }
 
         // if (collision.gameObject.TryGetComponent(out DragonEgg egg))
         //   Destroy(gameObject);

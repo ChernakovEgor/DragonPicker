@@ -40,6 +40,7 @@
      <Compile Include="Assets/Dragon_Picker/Scripts/EnergyShield.cs" />
      <Compile Include="Assets/PyroParticles/Prefab/Script/FireCollisionForwardScript.cs" />
      <Compile Include="Assets/PyroParticles/Prefab/Script/FireBaseScript.cs" />
+     <Compile Include="Assets/Dragon_Picker/Scripts/PauseText.cs" />
      <Compile Include="Assets/PyroParticles/Prefab/Script/FireLightScript.cs" />
      <Compile Include="Assets/Dragon_Picker/Scripts/DragonEgg.cs" />
      <Compile Include="Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs" />
@@ -50,7 +51,8 @@
      <Compile Include="Assets/PyroParticles/Prefab/Script/FireProjectileScript.cs" />
      <Compile Include="Assets/PyroParticles/Prefab/Script/FireConstantBaseScript.cs" />
      <Compile Include="Assets/Dragon_Picker/Scripts/MainMenu.cs" />
-     <Compile Include="Assets/Dragon_Picker/Scripts/PauseText.cs" />
+     <Compile Include="Assets/Dragon_Picker/Scripts/GameManager.cs" />
+     <Compile Include="Assets/ScoreCounter.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
