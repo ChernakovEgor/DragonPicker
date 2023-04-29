@@ -351,6 +351,7 @@
 "Assets/Dragon_Picker/Scripts/GameManager.cs"
 "Assets/Dragon_Picker/Scripts/MainMenu.cs"
 "Assets/Dragon_Picker/Scripts/PauseText.cs"
+"Assets/Dragon_Picker/Scripts/ScoreCounter.cs"
 "Assets/PyroParticles/Demo/DemoScript.cs"
 "Assets/PyroParticles/Demo/DemoScriptEditor.cs"
 "Assets/PyroParticles/Prefab/Script/FireBaseScript.cs"
@@ -360,7 +361,6 @@
 "Assets/PyroParticles/Prefab/Script/FireProjectileScript.cs"
 "Assets/PyroParticles/Prefab/Script/MeteorSwarmScript.cs"
 "Assets/PyroParticles/Prefab/Script/SingleLineAttribute.cs"
-"Assets/ScoreCounter.cs"
 -langversion:9.0
 
 /deterministic
