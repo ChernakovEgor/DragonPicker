@@ -349,6 +349,7 @@
 "Assets/Dragon_Picker/Scripts/DragonPicker.cs"
 "Assets/Dragon_Picker/Scripts/EnergyShield.cs"
 "Assets/Dragon_Picker/Scripts/MainMenu.cs"
+"Assets/Dragon_Picker/Scripts/PauseText.cs"
 "Assets/PyroParticles/Demo/DemoScript.cs"
 "Assets/PyroParticles/Demo/DemoScriptEditor.cs"
 "Assets/PyroParticles/Prefab/Script/FireBaseScript.cs"
